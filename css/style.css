@@ -12,20 +12,5 @@
     border: 1px solid white;
 }
 
-.col-sm-12 .box::after{
-    content: 'Col-12';
-}
-
-.col-sm-6 .box::after{
-    content: 'Col-6';
-}
 
 
-/* After class nester box */
-.row.box .row .col-sm-6 .box-nested::after{
-    content: 'Nested Col-6';
-}
-
-.row.box .row .col-sm-12 .box-nested::after{
-    content: 'Nested Col-12';
-}
