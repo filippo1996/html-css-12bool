@@ -1,0 +1,26 @@
+.container{
+    max-width: 25%;
+    min-height: 500px;
+    margin: 50px auto;
+}
+
+.pixel{
+    width: 100%;
+    height: 20px;
+}
+
+.trasp-red{
+    background-color: #CBA266;
+}
+
+.red{
+    background: #70201A;
+}
+
+.gold{
+    background: #DFCE7D;
+}
+
+.blue-white{
+    background: #9AC6C5;
+}
